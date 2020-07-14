@@ -107,14 +107,3 @@ len(factors)
 [f.shape for f in factors]
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
