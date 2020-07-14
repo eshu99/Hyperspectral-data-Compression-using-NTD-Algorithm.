@@ -164,14 +164,3 @@ print('Image Compare PSNR：' + str(psnr))
 print('Decomposition Time：' + str(time.time() - time0))
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
