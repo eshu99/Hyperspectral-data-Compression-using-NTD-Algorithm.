@@ -72,3 +72,4 @@ len(factors)
 # In[100]:
 
 [f.shape for f in factors]
+
